@@ -7,7 +7,8 @@ import java.math;
 
 // TODO! 
 //1) get doubles to round off to hundereds place for all converstions. 
-// 
+// add api for live currency rates 
+// add time zone conversion. 
 
 
 public class main {
